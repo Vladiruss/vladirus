@@ -237,3 +237,7 @@ text-shadow: white;}
   .button:hover {
     background-color: #3e8e41; /* Цвет фона кнопки при наведении */
   }
+
+.img {
+    border-radius: 20px;
+}
