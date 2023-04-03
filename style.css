@@ -238,6 +238,6 @@ text-shadow: white;}
     background-color: #3e8e41; /* Цвет фона кнопки при наведении */
   }
 
-.img {
+  img {
     border-radius: 20px;
-}
+  }
